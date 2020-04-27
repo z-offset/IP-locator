@@ -1,6 +1,6 @@
 # api url: http://api.ipstack.com/
 # api key: a7b7a792adfc2bb96bb639263eadf0d5
-# api use: http://api.ipstack.com/102.78.114.14?access_key=a7b7a792adfc2bb96bb639263eadf0d5&format=1
+# api use: http://api.ipstack.com/{ip_address}?access_key={api_key}&format=1
 
 
 # import libraries:
